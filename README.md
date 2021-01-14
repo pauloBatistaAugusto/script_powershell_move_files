@@ -1,2 +1,2 @@
 # script_powershell_move_files
-Script para mover arquivos utilizando ftp
+Script powershell para mover arquivos utilizando ftp
